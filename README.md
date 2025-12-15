@@ -40,16 +40,21 @@ pz13-pprof-lab/
 ## До оптимизации
 
 top:
+
 <img width="682" height="249" alt="image" src="https://github.com/user-attachments/assets/28a373ae-2830-4ed2-8bd5-5e6c42fa5e72" />
 
 graph/web:
+
 <img width="684" height="816" alt="image" src="https://github.com/user-attachments/assets/11f03a6a-4d55-4241-9b93-200b5556aa1f" />
 
 ## После оптимизации
+
 top:
+
 <img width="587" height="239" alt="image" src="https://github.com/user-attachments/assets/3f562255-e145-409b-9075-4de5baf13de3" />
 
 graph/web:
+
 <img width="442" height="823" alt="image" src="https://github.com/user-attachments/assets/a403625c-885c-4f62-a0cd-c7826298a7f9" />
 
 # Heap-профиль
